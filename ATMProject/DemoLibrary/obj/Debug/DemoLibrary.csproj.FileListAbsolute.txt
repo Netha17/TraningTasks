@@ -1,0 +1,6 @@
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoLibrary\obj\Debug\DemoLibrary.pdb

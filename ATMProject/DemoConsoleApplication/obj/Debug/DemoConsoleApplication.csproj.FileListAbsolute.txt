@@ -1,0 +1,8 @@
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.exe.config
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.exe
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoConsoleApplication\bin\Debug\DemoConsoleApplication.pdb
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.exe
+C:\Users\Nithin_Ale\source\repos\ATMProject\DemoConsoleApplication\obj\Debug\DemoConsoleApplication.pdb
